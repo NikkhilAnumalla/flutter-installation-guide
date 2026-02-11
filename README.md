@@ -307,3 +307,63 @@ flutter run
 
 Happy Fluttering 🚀
 >>>>>>> ea745f53bb409000deb52e9e8c62d7914b607583
+
+
+
+
+🚀 Flutter Installation & Project Guide
+📥 How to Clone This Repository
+
+If you want to use this project on your system:
+
+1️⃣ Clone the Repository
+git clone https://github.com/NikkhilAnumalla/flutter-installation-guide.git
+
+2️⃣ Go Inside the Project Folder
+cd flutter-installation-guide
+
+3️⃣ Get Dependencies
+flutter pub get
+
+4️⃣ Run the Project
+
+Make sure emulator is running or device is connected:
+
+flutter run
+
+🔄 How to Pull Latest Changes (For Team Members)
+
+If you already cloned the repo and want latest updates:
+
+git pull origin main
+
+
+Then run:
+
+flutter pub get
+flutter run
+
+
+👨‍💻 How to Create Your Own Personal Flutter App
+
+If you want to create your own new Flutter project:
+
+1️⃣ Create a New Flutter Project
+flutter create my_app_name
+
+
+Example:
+
+flutter create expense_tracker
+
+2️⃣ Go Inside Project
+cd my_app_name
+
+3️⃣ Open in VS Code
+code .
+
+4️⃣ Run the App
+
+Make sure emulator is running:
+
+flutter run
