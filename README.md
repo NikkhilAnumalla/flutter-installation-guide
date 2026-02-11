@@ -374,3 +374,15 @@ flutter run
 
 Make sure emulator is running:
 
+📱 How to Start Android Emulator Method 1 – Using Android Studio
+
+Open Android Studio
+
+Click More Actions
+
+Click Device Manager
+
+Click Start (▶) on your emulator
+
+Wait until the virtual phone fully loads
+
