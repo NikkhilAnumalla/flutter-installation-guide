@@ -306,64 +306,71 @@ flutter run
 ```
 
 Happy Fluttering 🚀
->>>>>>> ea745f53bb409000deb52e9e8c62d7914b607583
 
 
-
-
-🚀 Flutter Installation & Project Guide
+# 🚀 Flutter Installation & Project Guide
 📥 How to Clone This Repository
 
 If you want to use this project on your system:
 
 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/NikkhilAnumalla/flutter-installation-guide.git
-
+```
 2️⃣ Go Inside the Project Folder
+```bash
 cd flutter-installation-guide
-
+```
 3️⃣ Get Dependencies
+```bash
 flutter pub get
-
+```
 4️⃣ Run the Project
+```bash
+flutter run
+```
 
 Make sure emulator is running or device is connected:
 
-flutter run
+📱 How to Start Android Emulator
+Method 1 – Using Android Studio
 
-🔄 How to Pull Latest Changes (For Team Members)
+Open Android Studio
 
-If you already cloned the repo and want latest updates:
+Click More Actions
 
-git pull origin main
+Click Device Manager
 
+Click Start (▶) on your emulator
 
-Then run:
-
-flutter pub get
-flutter run
+Wait until the virtual phone fully loads.
 
 
-👨‍💻 How to Create Your Own Personal Flutter App
+# 👨‍💻 How to Create Your Own Personal Flutter App
 
 If you want to create your own new Flutter project:
 
 1️⃣ Create a New Flutter Project
+```bash
 flutter create my_app_name
-
+```
 
 Example:
 
 flutter create expense_tracker
 
 2️⃣ Go Inside Project
+```bash
 cd my_app_name
-
+```
 3️⃣ Open in VS Code
+```bash
 code .
-
+```
 4️⃣ Run the App
+```bash
+flutter run
+```
 
 Make sure emulator is running:
 
-flutter run
